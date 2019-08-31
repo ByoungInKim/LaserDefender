@@ -187,17 +187,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4429817823738855687, guid: aa170fa86baf6472a8f9b225a5b6194b,
-        type: 3}
-      propertyPath: laserPrefab
-      value: 
-      objectReference: {fileID: 754014961981183459, guid: 6f49399323499402e89fe7545146e5c7,
-        type: 3}
-    - target: {fileID: 4429817823738855687, guid: aa170fa86baf6472a8f9b225a5b6194b,
-        type: 3}
-      propertyPath: projectileSpeed
-      value: 10
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: aa170fa86baf6472a8f9b225a5b6194b, type: 3}
 --- !u!1001 &366521924
