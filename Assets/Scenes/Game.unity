@@ -683,6 +683,10 @@ MonoBehaviour:
   waveConfigs:
   - {fileID: 11400000, guid: 8cc390b253260424e994f2e1772a1ad8, type: 2}
   - {fileID: 11400000, guid: 8726bba97432d4c79847668f3804015f, type: 2}
+  - {fileID: 11400000, guid: e992e2072967a464882fdece57284270, type: 2}
+  - {fileID: 11400000, guid: 8b37c9f1bcd8d405489a79e7ef2617b1, type: 2}
+  startingWave: 0
+  looping: 1
 --- !u!4 &1679169416
 Transform:
   m_ObjectHideFlags: 0
@@ -764,5 +768,29 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 572358319003894796, guid: beee9da583a704173a14479a96700aa9,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 801312992436608202, guid: beee9da583a704173a14479a96700aa9,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 4266616409792958862, guid: beee9da583a704173a14479a96700aa9,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 8514093569556245675, guid: beee9da583a704173a14479a96700aa9,
+        type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: -5487077368411116049, guid: 0000000000000000d000000000000000,
+        type: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: beee9da583a704173a14479a96700aa9, type: 3}
