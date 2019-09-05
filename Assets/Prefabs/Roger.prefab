@@ -113,6 +113,13 @@ MonoBehaviour:
   projectile: {fileID: 713074407626633928, guid: a29d4f527cec5475db91edb84cb047e2,
     type: 3}
   projectileSpeed: 10
+  deathVFX: {fileID: 4429578391571570317, guid: 2779b0cb77e964f718dc36ad97012093,
+    type: 3}
+  durationExplosion: 1
+  deathSound: {fileID: 8300000, guid: 0ab7cfc9b2dfd4b6bbf1d714ab072c1f, type: 3}
+  deathSoundVolumn: 0.7
+  shootSound: {fileID: 8300000, guid: f7e0936c8d6c34addbcacbf60204f732, type: 3}
+  shootSoundVolumn: 0.25
 --- !u!58 &-2709609871273373056
 CircleCollider2D:
   m_ObjectHideFlags: 0
